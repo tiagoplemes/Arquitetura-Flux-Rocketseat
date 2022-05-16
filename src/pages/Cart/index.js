@@ -24,7 +24,7 @@ export default function Cart() {
                             />
                         </td>
                         <td>
-                            <strong>Tênis muito massa</strong>
+                            <strong>Tênis Muito Massa</strong>
                             <span>R$129,90</span>
                         </td>
                         <td>
