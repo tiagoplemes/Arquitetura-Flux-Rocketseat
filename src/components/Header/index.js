@@ -10,7 +10,6 @@ import logo from '../../assets/images/logorocket.svg'; // forma de acessar a log
 // import cart from '../../store/modules/cart/reducer';
 
 function Header({   cartSize   }) {
-    // console.log(cart)
 
     return(
         <Container>
